@@ -3,12 +3,12 @@ Import a Python file directly
 
 Quick example:
 ```python
-import import_file
-my_module = import_file.load('../common.py')
+import file_import
+my_module = file_import.load('../common.py')
 print(my_module.hello_world())
 ```
 
 Installing:
 ```
-pip install import_file
+pip install file_import
 ```
