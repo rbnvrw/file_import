@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='import_file',
+setup(name='file_import',
       version='0.1',
       description='Directly import Python files',
-      url='https://github.com/rbnvrw/import_file',
+      url='https://github.com/rbnvrw/file_import',
       author='Ruben Verweij',
       author_email='rbnvrw@gmail.com',
       license='MIT',
-      packages=['import_file'])
+      packages=['file_import'])
